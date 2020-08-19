@@ -1,0 +1,59 @@
+.navbar-brand img{
+    width :100px;
+}
+p{
+    color :gray;
+}
+#product img{
+    width :100%;
+}
+.one{
+    background-image: url("img/hot-gadgets/bg-1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+
+    
+}
+.two{
+    background-image: url("img/hot-gadgets/bg-2.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+#product-1{
+    margin-top :100px;
+    margin-bottom:100px;
+}
+.card{
+    border :none ;
+    box-shadow :5px 5px 10px lightgray;
+    border-radius: 10px;
+    margin-right :10px;
+}
+.seeAll a{
+    text-decoration :none;
+    color :orange;
+}
+.cart img{
+    width :100%;
+}
+.categories .card img{
+    width: 80px;
+    height :80px;
+}
+.categories h2{
+    margin-bottom: 50px;
+    text-align :center;
+}
+.categories{
+    margin top:100px;
+    margin-bottom :100px;
+}
+h6{
+    text-align :center;   
+    margin-top :10px;
+}
+footer{
+    text-align: center;
+    margin-bottom :10px;
+}
